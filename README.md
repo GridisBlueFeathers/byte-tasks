@@ -1,4 +1,4 @@
-Для того, что бы установить все зависимости (node_modules), находясь в корне проэкта, выполните в терминале команду 
+To install all dependencies run
 ```
 npm install
 ```
